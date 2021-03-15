@@ -4,9 +4,7 @@ opencore 0.6.7 efi 备份
 包含完整Resources文件夹
 默认开启启动音效
 
-config.plist已删除机型部分：
-
-PlatformInfo > Generic ； PlatformInfo > SMBIOS
+z390 补丁开启原生nvram
 
 
 
