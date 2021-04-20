@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 # opencore-efi
 
 #  opencore 0.6.8 efi 备份
