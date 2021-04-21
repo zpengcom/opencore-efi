@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 
 #  opencore 0.6.8 efi 备份
-
+ - 启动磁盘扫描参数 Scan Policy 由默认值0 改成 19596547 隐藏非常用启动项
  - 主题Resources文件夹添加背景Background.icns  （似乎每次更新OC,也要跟着更新Resources？不然主题有奇怪的问题?）
 
  - （关于启动音效 内建输出时依然有效 --- 但为方便其它设备（switch)联显示器时也有声音 所以音效方案已改成：主机HDMI ——> 显示器 ——> 音响 【这样就无启动音效-改过参数无效】）
