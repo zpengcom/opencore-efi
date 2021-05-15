@@ -2,6 +2,12 @@
 
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 
+
+#  opencore 0.6.9 efi 备份
+- 删除了3码，可自己生成，然后去苹果官网查询，能用就行。
+- 系统升级到 bigsur 11.3.1 后USB定制失效，USB3无法识别USB2（键盘鼠标失效）设备。目前解决是禁用端口补丁限制 XhciPortLimit
+- 删除了许多不必要的kext
+- 删除了Misc - Security - BlacklistAppleUpdate 项 已不在需要
 #  opencore 0.6.8 efi 备份
  - 启动磁盘扫描参数 Scan Policy 由默认值0 改成 19596547 隐藏非常用启动项
  - 主题Resources文件夹添加背景Background.icns  （似乎每次更新OC,也要跟着更新Resources？不然主题有奇怪的问题?）
