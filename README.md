@@ -1,6 +1,7 @@
 # opencore 
 
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
+<img src="https://github.com/zpengcom/opencore-efi/img/macinfo.png">
 
 - 基于官方正式版,集成官方主题<br>
 - Z390主板已补丁开启原生nvram<br>
@@ -15,7 +16,7 @@
 
 # 硬件信息
 
-系统：  Win10+macOS11.2.3
+系统：  Win10+macOS11.3.1
 
 主板：  华硕 TUF Z390-PLUS GAMING (WI-FI)
 
