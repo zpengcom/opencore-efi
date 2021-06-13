@@ -3,7 +3,8 @@
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 
 基于官方正式版,集成官方主题、开启启动音频<br>
-移除了3码信息，可自己生成，然后去苹果官网查询，能用就行。<br>
+Z390主板已补丁开启原生nvram<br>
+移除了3码信息，可自己生成，然后去<a href="https://checkcoverage.apple.com/us/en/?sn=" target="_blank" style="target-new: tab;">苹果官网查询</a> ，能用就行。<br>
 启动磁盘扫描参数 Scan Policy 由默认值0 改成 19596547 隐藏非常用启动项(仅显示win+mac)<br>
 
 *bug:USB注入已从0.6.9中开始移除
