@@ -2,7 +2,14 @@
 
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 
-基于官方正式版,集成官方主题
+基于官方正式版,集成官方主题、开启启动音频
+移除了3码信息，可自己生成，然后去苹果官网查询，能用就行。
+启动磁盘扫描参数 Scan Policy 由默认值0 改成 19596547 隐藏非常用启动项(仅显示win+mac)
+
+bug:USB注入已从0.6.9中开始移除
+
+<a href="https://github.com/zpengcom/opencore-efi/releases target="_parent">去下载</a>
+
 
 # 硬件信息
 
@@ -21,3 +28,9 @@ CPU：  Intel Core i9-9900K @ 3.6Ghz
 网卡：  Broadcom BCM94360CD + Intel I219V7（主板） + intel wireless-AC 9560 & BT5.0（主板）
 
 声卡：  Realtek ALC S1200A（主板）
+
+# 软件推荐
+<a href="https://staticz.com/soundcontrol/ " target="_blank">Sound Control</a> ----- 支持HDMI音频输出时的音量调节
+<a href="https://github.com/chris1111/OpenCanopy-Generator" target="_blank">OpenCanopy Generator</a> ------- 主题文件生成（.icns)
+<a href="http://mackie100projects.altervista.org" target="_blank">OpenCore Configurator</a> ------- OpenCore配置工具
+Hackintool ------- 工具箱
