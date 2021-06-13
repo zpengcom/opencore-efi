@@ -2,32 +2,7 @@
 
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 
-
-#  opencore 0.6.9 efi 备份
-- 删除了3码，可自己生成，然后去苹果官网查询，能用就行。
-- 系统升级到 bigsur 11.3.1 后USB定制失效，USB3无法识别USB2（键盘鼠标失效）设备。目前解决是禁用端口补丁限制 XhciPortLimit
-- 删除了许多不必要的kext
-- 删除了Misc - Security - BlacklistAppleUpdate 项 已不在需要
-#  opencore 0.6.8 efi 备份
- - 启动磁盘扫描参数 Scan Policy 由默认值0 改成 19596547 隐藏非常用启动项
- - 主题Resources文件夹添加背景Background.icns  （似乎每次更新OC,也要跟着更新Resources？不然主题有奇怪的问题?）
-
- - （关于启动音效 内建输出时依然有效 --- 但为方便其它设备（switch)联显示器时也有声音 所以音效方案已改成：主机HDMI ——> 显示器 ——> 音响 【这样就无启动音效-改过参数无效】）
- - HDMI的音频输入 需要应用 Sound Control 才能像白果一样控制音量大小
-
- - 删除了3码，可自己生成，然后去苹果官网查询，能用就行。
-
-
-# opencore 0.6.7 efi 备份
-
-包含完整Resources文件夹
-默认开启启动音效
-
-删除了3码，可自己生成，然后去苹果官网查询，能用就行。
-
-z390 补丁开启原生nvram
-
-
+基于官方正式版,集成官方主题
 
 # 硬件信息
 
