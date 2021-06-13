@@ -11,7 +11,7 @@
 
 *bug:USB定制存在bug 已从0.6.9中开始移除
 
-<a href="https://github.com/zpengcom/opencore-efi/releases"> 去下载 </a>
+<a href="https://github.com/zpengcom/opencore-efi/releases"> 下载Opencore EFI 文件 </a>
 
 
 # 硬件信息
