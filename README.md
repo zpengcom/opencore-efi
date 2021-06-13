@@ -2,7 +2,8 @@
 
 <img src="https://i.postimg.cc/sx8Z0swC/20153230.png">
 <img src="https://raw.githubusercontent.com/zpengcom/opencore-efi/main/img/macinfo.png">
-<img src="https://raw.githubusercontent.com/zpengcom/opencore-efi/main/img/win-mac.png"><img src="https://raw.githubusercontent.com/zpengcom/opencore-efi/main/img/mac-win.png">
+<img src="https://raw.githubusercontent.com/zpengcom/opencore-efi/main/img/mac-win.png">
+<img src="https://raw.githubusercontent.com/zpengcom/opencore-efi/main/img/win-mac.jpg">
 
 - 基于官方正式版,集成官方主题<br>
 - Z390主板已补丁开启原生nvram<br>
