@@ -11,7 +11,7 @@
 - 启动磁盘扫描参数 Scan Policy 由默认值0 改成 19596547 隐藏非常用启动项(仅显示win+mac)，按空格键切换完整项目<br>
 - 移除了3码信息，可自己生成，然后去<a href="https://checkcoverage.apple.com/us/en/?sn=" target="_blank" style="target-new: tab;">苹果官网查询</a> ，能用就行。<br>
 
-*bug:USB定制存在bug(USB2.0设备或全部USB端口无法识别） 从0.6.9中开始禁用端口补丁限制:XhciPortLimit
+*bug:USB定制存在bug(全部USB端口无法识别 或 USB2.0设备无法使用） 从 OC 0.6.9 中开始移除USB定制内容 并禁用端口补丁限制:Kernel -- XhciPortLimit 项
 
 <a href="https://github.com/zpengcom/opencore-efi/releases"> 下载Opencore EFI 文件 </a>
 
