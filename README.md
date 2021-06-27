@@ -35,7 +35,7 @@ CPU：  Intel Core i9-9900K @ 3.6Ghz
 声卡：  Realtek ALC S1200A（主板）
 
 # windows10升级windows11 TPM问题
-TUF Z390-PLUS GAMING主板没有TPM项？<br>
+主板没有TPM项？<br>
 启用PTT（Intel平台信息技术）即可，在主板设置中：<br>
 高级 --> PCH-FW Configuration --> Intel Platform Trust Technology  -- Enabled
 
