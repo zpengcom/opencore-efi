@@ -20,7 +20,7 @@
 
 # 硬件信息
 
-系统：  Win10+macOS11.3.1
+系统：  Win10+macOS 11.4
 
 主板：  华硕 TUF Z390-PLUS GAMING (WI-FI)
 
