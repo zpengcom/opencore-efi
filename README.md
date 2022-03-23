@@ -52,7 +52,7 @@ CPU：  Intel Core i9-9900K @ 3.6Ghz
 
 <a href="https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md" target="_blank" style="target-new: tab;">开启HiDPI</a> ------- 开启 macOS HiDPI
          
-<a href="https://staticz.com/soundcontrol/ " target="_blank" style="target-new: tab;">Sound Control</a> ----- 支持HDMI音频输出时的音量调节
+<a href="https://staticz.com/soundcontrol/ " target="_blank" style="target-new: tab;">Sound Control</a> ----- 支持HDMI音频输出时的音量调节【解决声音过小问题_>从HDMI输出音频，利用系统的 音频MIDI设置 可以实现键盘快捷控制音量（需要启动Sound Control软件，但可以不用开启它）】
                                                             
 <a href="https://github.com/chris1111/OpenCanopy-Generator" target="_blank" style="target-new: tab;">OpenCanopy Generator</a> ------- 主题文件生成（.icns)
 
