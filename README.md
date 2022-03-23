@@ -48,6 +48,8 @@ CPU：  Intel Core i9-9900K @ 3.6Ghz
 
 <a href="https://github.com/ic005k/OCAuxiliaryTools" target="_blank" style="target-new: tab;">OC Auxiliary Tools</a> ------- OpenCore辅助工具
 
+<a href="https://github.com/corpnewt/ProperTree" target="_blank" style="target-new: tab;">ProperTree</a> ------- Windows的Plist编辑器
+
 <a href="https://github.com/USBToolBox/tool" target="_blank" style="target-new: tab;">USBToolBox</a> ------- USB定制
 
 <a href="https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md" target="_blank" style="target-new: tab;">开启HiDPI</a> ------- 开启 macOS HiDPI
