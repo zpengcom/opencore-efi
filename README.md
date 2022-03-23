@@ -42,17 +42,19 @@ CPU：  Intel Core i9-9900K @ 3.6Ghz
 高级 --> PCH-FW Configuration --> Intel Platform Trust Technology  -- Enabled
 
 # 软件推荐
+<a href="https://github.com/headkaze/Hackintool" target="_blank" style="target-new: tab;">Hackintool</a> ------- 工具箱
+                                                                           
+<a href="http://mackie100projects.altervista.org" target="_blank" style="target-new: tab;">OpenCore Configurator</a> ------- OpenCore配置工具
+
+<a href="https://github.com/ic005k/OCAuxiliaryTools" target="_blank" style="target-new: tab;">OC Auxiliary Tools</a> ------- OpenCore辅助工具
+
+<a href="https://github.com/USBToolBox/tool" target="_blank" style="target-new: tab;">USBToolBox</a> ------- USB定制
+
+<a href="https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md" target="_blank" style="target-new: tab;">开启HiDPI</a> ------- 开启 macOS HiDPI
+         
 <a href="https://staticz.com/soundcontrol/ " target="_blank" style="target-new: tab;">Sound Control</a> ----- 支持HDMI音频输出时的音量调节
                                                             
 <a href="https://github.com/chris1111/OpenCanopy-Generator" target="_blank" style="target-new: tab;">OpenCanopy Generator</a> ------- 主题文件生成（.icns)
-<a href="https://github.com/chris1111/Icnspack-Builder" target="_blank" style="target-new: tab;">OpenCore Configurator</a> ------- OpenCore主题制作工具
-                                                                           
-<a href="http://mackie100projects.altervista.org" target="_blank" style="target-new: tab;">OpenCore Configurator</a> ------- OpenCore配置工具
-<a href="https://github.com/ic005k/OCAuxiliaryTools" target="_blank" style="target-new: tab;">OpenCore Configurator</a> ------- OpenCore配置工具
 
-<a href="https://github.com/USBToolBox/tool" target="_blank" style="target-new: tab;">OpenCore Configurator</a> ------- USB定制
-
-<a href="https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md" target="_blank" style="target-new: tab;">OpenCore Configurator</a> ------- 开启 macOS HiDPI
-         
-Hackintool ------- 工具箱
+<a href="https://github.com/chris1111/Icnspack-Builder" target="_blank" style="target-new: tab;">Icnspack-Builder</a> ------- OpenCore主题制作工具
 
